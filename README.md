@@ -15,6 +15,8 @@ polygon, the less one would have to walk to get to the nearest trash bin. As suc
 each polygon is shaded according to its area, with blue being the smallest and red
 being the largest.
 
+A live version of this map can be found [here](http://phillywaste.tomfleischer.com).
+
 ## Problems
 * Privately owned bins such as those on college campuses, are not included. (you'll
   notice the glaring "red" area in University City)
